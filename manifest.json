@@ -1,0 +1,10 @@
+{
+  "id": "MlPBSXdkIe4H4vqT898EHSAgXIgmk7",
+  "name":"help",
+  "label": "Help",
+  "isWpp": true,
+  "icon": "/images/icns/GenericApplicationIcon.png",
+  "author": "guest",
+  "version": "1.0.0",
+  "mainState": "main"
+}
