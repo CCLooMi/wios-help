@@ -3,7 +3,7 @@
         <i class="btn btn-glass-block" icons="logo"></i>
     </s-v>
     <s-v style="grid-template-columns: 220px 1px 1fr; grid-template-rows: 1fr;">
-        <s-v class="side-bar"></s-v>
+        <s-v class="side-bar scrollable"></s-v>
         <divider cc-ew-resize="0"></divider>
         <s-v class="content-wrap">
             <div class="preview scrollable"></div>

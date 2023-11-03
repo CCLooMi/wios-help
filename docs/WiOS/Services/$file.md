@@ -3,7 +3,9 @@ $file服务用于操作文件，该服务provider有以下方法
 + regContextMenu(func(files,folder,menus))
 + regOpenActioin(func(files,folder,actions))
 + regNewFileMenu(func(files,folder,menus,wpp))
+
 $file服务有以下方法
+
 + getContextMenus(files,folder,...opts)
 + getOpenAction(files,folder,...opts)
 + getNewFileMenus(files,folder,...opts)
