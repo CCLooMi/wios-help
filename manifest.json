@@ -5,11 +5,12 @@
   "isWpp": true,
   "icon": "asset/icon.jpeg",
   "author": "guest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mainState": "main",
   "title": "",
   "subtitle": "",
-  "serverUrl": "",
-  "uploadUrl": "",
-  "iconType": "image/jpeg"
+  "serverUrl": "http://localhost:4040",
+  "uploadUrl": "ws://localhost:4040/fileUp",
+  "iconType": "image/jpeg",
+  "iconFid": "a5897b2e6a5690f79614029593dce55ceca14dde94ef2ed9779b89ac1042bcd3"
 }
