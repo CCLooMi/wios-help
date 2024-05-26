@@ -30,7 +30,7 @@ $modal服务可以弹出对话框、窗口、通知、提示,该服务有以下�
 + bgBlur(blur):this
 + role(role):this
 + showFooterBtn(showFooterBtn):this
-+ canceldOnTouchOutSide(canceldOnTouchOutSide):this
++ canceledOnTouchOutside(canceldOnTouchOutSide):this
 + minimisable(minimisable):this
 + minimise(minimise):this
 + active(active):this

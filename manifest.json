@@ -1,10 +1,15 @@
 {
   "id": "MlPBSXdkIe4H4vqT898EHSAgXIgmk7",
-  "name":"help",
+  "name": "help",
   "label": "Help",
   "isWpp": true,
-  "icon": "/images/icns/GenericApplicationIcon.png",
+  "icon": "asset/icon.jpeg",
   "author": "guest",
   "version": "1.0.0",
-  "mainState": "main"
+  "mainState": "main",
+  "title": "",
+  "subtitle": "",
+  "serverUrl": "",
+  "uploadUrl": "",
+  "iconType": "image/jpeg"
 }
