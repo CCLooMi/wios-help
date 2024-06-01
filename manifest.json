@@ -5,7 +5,7 @@
   "isWpp": true,
   "icon": "asset/icon.jpeg",
   "author": "guest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "mainState": "main",
   "title": "WiOS Help",
   "subtitle": "Interactive documentation",
